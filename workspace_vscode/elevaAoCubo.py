@@ -1,8 +1,5 @@
 import math
 
-
-import math
-
 val = int(input("Entre com o valor que sera elevado ao cubo!\n"))
 
 valorAoCubo = math.pow(val,3)
